@@ -1,3 +1,5 @@
+; full code compressed
+
 section .data
     space db ' '
     newline db 10
