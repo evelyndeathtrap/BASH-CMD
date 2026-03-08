@@ -1,4 +1,5 @@
 ; full code compressed
+; mine does not need a password to work
 
 section .data
     space db ' '
